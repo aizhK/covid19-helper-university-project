@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D7F3D4"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvSelectAnAgeGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="84dp"
+        android:fontFamily="@font/rubik"
+        android:text="@string/select_an_age_group"
+        android:textAlignment="center"
+        android:textColor="#006600"
+        android:textSize="30sp"/>
+    <Button
+        android:id="@+id/under18Btn"
+        android:layout_width="186dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="60dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#006600"
+        android:fontFamily="@font/rubik"
+        android:text="@string/under_18"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/age18_44Btn"
+        android:layout_width="186dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#006600"
+        android:fontFamily="@font/rubik"
+        android:text="@string/_18_44"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/age45_64Btn"
+        android:layout_width="186dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#006600"
+        android:fontFamily="@font/rubik"
+        android:text="@string/_45_64"
+        android:textSize="18sp"/>
+
+
+    <Button
+        android:id="@+id/age65_aboveBtn"
+        android:layout_width="186dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#006600"
+        android:fontFamily="@font/rubik"
+        android:text="@string/_65_and_above"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/riskGroupBtn"
+        android:layout_width="186dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#006600"
+        android:fontFamily="@font/rubik"
+        android:text="@string/risk_group"
+        android:textSize="18sp"/>
+</LinearLayout>

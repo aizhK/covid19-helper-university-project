@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D7F3D4">
+
+    <Button
+        android:id="@+id/generalInfoBtn"
+        android:layout_width="283dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="280dp"
+        android:backgroundTint="#006600"
+        android:fontFamily="@font/rubik"
+        android:text="@string/general_information"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/symAndPrevBtn"
+        android:layout_width="283dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="424dp"
+        android:backgroundTint="#006600"
+        android:fontFamily="@font/rubik"
+        android:text="@string/symptoms_and_preventions"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/whatWouldYouLike"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/rubik"
+        android:text="@string/what_would_you_like_to_view"
+        android:textAlignment="center"
+        android:textColor="#006600"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/generalInfoBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>

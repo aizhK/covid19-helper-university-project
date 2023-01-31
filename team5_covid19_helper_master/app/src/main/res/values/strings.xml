@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Covid-19 Helper</string>
+    <string name="welcomingText">Welcome to the COVID-19 Helper</string>
+    <string name="current_status">Current status</string>
+    <string name="feedback">Send Feedback</string>
+    <string name="about">About us</string>
+    <string name="mask">mask</string>
+    <string name="children">children</string>
+    <string name="title_activity_settings_menu">Feedback</string>
+    <string name="title_activity_settings">Feedback</string>
+    <string name="searchBtnTitle">Search</string>
+
+    <string name="learn_more">Learn more</string>
+    <string name="general_information">General Information</string>
+    <string name="symptoms_and_preventions">Symptoms and Preventions</string>
+    <string name="risk_group">Risk group</string>
+    <string name="select_an_age_group">Select an age group</string>
+    <string name="select_age_group">Select age group</string>
+    <string name="what_would_you_like_to_view">What would you like to view?</string>
+    <string name="about_us">About us</string>
+
+    <!-- Learn more age groups titles and info texts -->
+    <string name="_18_44">18 - 44</string>
+    <string name="_45_64">45 - 64</string>
+    <string name="_65_and_above">65 and above</string>
+    <string name="under18text">Children, including very young children, can get COVID-19. Many of them have no symptoms, however, some of those that do get sick tend to have milder symptoms such as low-grade fever, fatigue, and cough.\n\nSome children have had severe complications. Children with underlying health conditions may be at an increased risk for severe illness.</string>
+    <string name="info18_44">As one grows older, there is an increase in the risk of developing some underlying health conditions, which then increase the risk of the person developing COVID-19 complications.\n \nAs with seniors and younger adults with pre-existing health conditions, such as: \n\n • Chronic kidney disease \n • Heart disease \n • Obesity \n • Type 2 diabetes \n \nThose people are more vulnerable to severe COVID-19.\n\nIn addition, the CDC now says that anyone who is overweight, with a body mass index (BMI) between 25 and 30, also might be under higher risks of developing COVID-19 complications.</string>
+    <string name="info65_above">COVID-19 is changing older people’s daily routines, the care and support they receive, their ability to stay socially connected and how they are perceived.\n\nOlder people are being put in a challenging position by having to spend more time at home, having little to none physical contact with other family members, friends and colleagues, temporary cessation of employment and other activities; and anxiety and fear of illness and death – their own and others.\n\nAn analysis of more than 114,000 COVID-19 associated deaths during May – August 2020, has shown that 78% of the people who died were aged 65 and older.</string>
+    <string name="symptomsAndPreventsInfo">Some of the preventions against COVID-19 are the following:\n\n&#8226; Maintaining at least a 1-metre distance between yourself and others. The further away, the better.\n\n&#8226; Make wearing a mask a normal part of life when around other people.\n\n&#8226; Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.\n\n&#8226; Avoid touching your eyes, nose and mouth.\n\nSome of the COVID-19 symptoms are:\n\n&#8226; Dry cough\n\n&#8226; Headaches\n\n&#8226; Fever\n\n&#8226;Loss of taste and smell</string>
+    <string name="riskGroupInfo">COVID-19 can make anyone seriously ill. But for some people, the risk is higher.\n\nCOVID-19 is often more severe in people who are older than 60 years or who have health conditions like lung or heart disease, diabetes or conditions that affect their immune system.\n\nVulnerable older people who have difficulty staying self-reliant are more at risk than older people who are fit and healthy. Vulnerability increases with age and can manifest itself in various ways. For example, some vulnerable older people may need assistance with physical care, while others may have memory problems and regularly attend adult day services.​</string>
+    <string name="aboutUsInfo">We are the COVID-HELPER’s team. Our aim is to inform people about the coronavirus situation. We want people to understand that this pandemic is not a joke and we need to reduce meetings and contacting people.\n\nOur team:\n\nSam Hämäläinen\nSam.Hamalainen@metropolia.fi\n\nAizhar Khassen\nAizhar.Khassen@metropolia.fi\n\nEnakaev Damir\nDamir.Enakaev@metropolia.fi</string>
+    <string name="info_age45_64">As one grows older, there is a risk of developing severe health complications, both during and from COVID-19, increases. As well as that, the risk of one being hospitalized due to COVID-19 increases. \n\nSome studies reveal that age is by far the strongest predictor of an infected person\'s risk of dying. In fact, 8 out of 10 COVID-19-related deaths that hve been reported in the US have been among adults aged 60 years and older.</string>
+    <string name="under_18">Under 18</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">General</string>
+    <string name="sync_header">Notifications</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Feedback</string>
+    <string name="reply_title">Report technical issues or suggest new features</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">New message notification</string>
+    <string name="attachment_title">Vibrate</string>
+    <string name="attachment_summary_on">On
+    </string>
+    <string name="attachment_summary_off">Off</string>
+    <string name="send_feedbackBtn">Send Feedback</string>
+
+
+</resources>
