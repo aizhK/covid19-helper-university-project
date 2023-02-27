@@ -1,1 +1,1 @@
-# covid19-helper-university-project
+# Covid-19 Helper -- Android application
